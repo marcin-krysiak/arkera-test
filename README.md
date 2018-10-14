@@ -2,8 +2,8 @@
 
 ## running the app
 ```
-git clone https://github.com/marcinkrysiak1979/arkera-test-cities.git
-cd akera-test-cities
+git clone https://github.com/marcinkrysiak1979/arkera-test.git
+cd akera-test
 npm i && npm start
 ```
 
