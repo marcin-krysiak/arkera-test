@@ -3,7 +3,7 @@
 ## running the app
 ```
 git clone https://github.com/marcinkrysiak1979/arkera-test.git
-cd akera-test
+cd arkera-test
 npm i && npm start
 ```
 
